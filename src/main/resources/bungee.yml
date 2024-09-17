@@ -1,0 +1,5 @@
+name: Nick
+version: 1.0
+main: dev.luan.nick.bungeecord.BungeeNick
+api-version: 1.20
+depend: [core-bungeecord]
